@@ -29,7 +29,7 @@ Vary Light Gray: hsl(0, 0%, 98%)
 
 ### Font
 
-- Family: [Be Vietnam](https://fonts.google.com/specimen/Be+Vietnam)
+- Family: [Be Vietnam Pro](https://fonts.google.com/specimen/Be+Vietnam+Pro)
 - Weights: 400, 500, 700
 
 ## Icons
